@@ -36,12 +36,12 @@
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mariadb,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
 </p>
 
 ### ☁️ DevOps & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,vercel,githubactions,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions,aws" />
 </p>
 
 ### 🛠️ Tools
