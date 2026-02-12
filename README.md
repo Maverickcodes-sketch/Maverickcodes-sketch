@@ -27,7 +27,7 @@
 
 ### 🖥️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,kafka" />
 </p>
 
 <p>
@@ -36,7 +36,7 @@
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mariadb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mariadb,redis" />
 </p>
 
 ### ☁️ DevOps & Cloud
@@ -54,23 +54,21 @@
 ## 📊 DSA & Problem Solving
 
 - ✔ Strong understanding of Data Structures  
-- ✔ Practiced problems on LeetCode  
+- ✔ Practiced problems on LeetCode  [LeetCode](https://leetcode.com/u/_Shaswat_Mishra/) 
 - ✔ Comfortable with Trees, Graphs, Recursion, DP  
-- ✔ Focused on writing optimized and clean code  
+- ✔ Focused on writing optimized and clean code
+- 
 
 ---
 
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:mishrashaswat29@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://www.linkedin.com/in/shaswat-mishra-320863252/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://leetcode.com/your-leetcode-username/">
-    <img src="https://skillicons.dev/icons?i=leetcode" />
   </a>
 </p>
 
